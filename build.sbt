@@ -5,7 +5,7 @@ version := "0.1"
 
 organization := "org.cakesolutions"
 
-scalaVersion := "2.10.0"
+scalaVersion := "2.10.1"
 
 /** Shell */
 shellPrompt := { state => System.getProperty("user.name") + "> " }
